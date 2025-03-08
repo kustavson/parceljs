@@ -6,7 +6,7 @@
 88C:\Users\kert.kustavson\kta24\parceljs\node_modules\@parcel\types-internal\lib\Glob.d.ts133859094133231139 0
 84C:\Users\kert.kustavson\kta24\parceljs\node_modules\semver\internal\parse-options.js133859094136214635 0
 75C:\Users\kert.kustavson\kta24\parceljs\node_modules\@parcel\optimizer-image133859094131458665 1
-51C:\Users\kert.kustavson\kta24\parceljs\package.json133859120574748233 0
+51C:\Users\kert.kustavson\kta24\parceljs\package.json133859108189782250 0
 102C:\Users\kert.kustavson\kta24\parceljs\node_modules\@parcel\transformer-babel\lib\remapAstLocations.js133859094137308309 0
 61C:\Users\kert.kustavson\kta24\parceljs\node_modules\is-number133859094102472867 1
 107C:\Users\kert.kustavson\kta24\parceljs\node_modules\@swc\helpers\cjs\_class_check_private_static_access.cjs133859094128880743 0

@@ -18,7 +18,7 @@
 79C:\Users\kert.kustavson\kta24\parceljs\node_modules\@parcel\events\package.json133859094147074729 0
 69C:\Users\kert.kustavson\kta24\parceljs\node_modules\dotenv-expand\lib133859094117060090 1
 75C:\Users\kert.kustavson\kta24\parceljs\node_modules\escalade\dist\index.mjs133859094107816702 0
-43C:\Users\kert.kustavson\kta24\parceljs\dist133859114448047506 1
+43C:\Users\kert.kustavson\kta24\parceljs\dist133859121936022239 1
 80C:\Users\kert.kustavson\kta24\parceljs\node_modules\@swc\helpers\_\_create_class133859094176979408 1
 74C:\Users\kert.kustavson\kta24\parceljs\node_modules\semver\ranges\valid.js133859094148446006 0
 57C:\Users\kert.kustavson\kta24\parceljs\node_modules\json5133859094127499529 1
@@ -55,7 +55,7 @@
 79C:\Users\kert.kustavson\kta24\parceljs\node_modules\ordered-binary\package.json133859094115008889 0
 83C:\Users\kert.kustavson\kta24\parceljs\node_modules\caniuse-lite\data\regions\NL.js133859094253936419 0
 102C:\Users\kert.kustavson\kta24\parceljs\node_modules\.bin\node-gyp-build-optional-packages-optional.cmd133859094304356106 0
-53C:\Users\kert.kustavson\kta24\parceljs\src\index.html133859101939278134 0
+53C:\Users\kert.kustavson\kta24\parceljs\src\index.html133859121862249732 0
 73C:\Users\kert.kustavson\kta24\parceljs\node_modules\msgpackr\dist\test.js133859094139642559 0
 69C:\Users\kert.kustavson\kta24\parceljs\node_modules\timsort\README.md133859094105082753 0
 82C:\Users\kert.kustavson\kta24\parceljs\node_modules\@parcel\core\lib\Validation.js133859094193476444 0
@@ -1880,7 +1880,7 @@
 82C:\Users\kert.kustavson\kta24\parceljs\node_modules\@swc\helpers\src\_inherits.mjs133859094182031030 0
 70C:\Users\kert.kustavson\kta24\parceljs\node_modules\is-number\index.js133859094099625120 0
 100C:\Users\kert.kustavson\kta24\parceljs\node_modules\caniuse-lite\data\features\css-math-functions.js133859094182581217 0
-54C:\Users\kert.kustavson\kta24\parceljs\dist\index.html133859114447934779 0
+54C:\Users\kert.kustavson\kta24\parceljs\dist\index.html133859121935919284 0
 69C:\Users\kert.kustavson\kta24\parceljs\node_modules\is-number\LICENSE133859094101557844 0
 68C:\Users\kert.kustavson\kta24\parceljs\node_modules\is-json\index.js133859094104437961 0
 86C:\Users\kert.kustavson\kta24\parceljs\node_modules\htmlparser2\lib\esm\Tokenizer.d.ts133859094137278579 0

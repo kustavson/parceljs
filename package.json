@@ -2,8 +2,10 @@
   "name": "parceljs",
   "source": "src/index.html",
   "scripts": {
-    "start": "parcel",
-    "build": "parcel build"
+    "dev": "parcel src/index.html",
+    "build": "parcel build src/index.html",
+    "deploy": "npm run build && surge dist reisi-rongiga.surge.sh",
+    "start": "parcel src/index.html --port 1234"
   },
   "devDependencies": {
     "parcel": "latest"
