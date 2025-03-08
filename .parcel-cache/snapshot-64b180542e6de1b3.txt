@@ -18,7 +18,7 @@
 79C:\Users\kert.kustavson\kta24\parceljs\node_modules\@parcel\events\package.json133859094147074729 0
 69C:\Users\kert.kustavson\kta24\parceljs\node_modules\dotenv-expand\lib133859094117060090 1
 75C:\Users\kert.kustavson\kta24\parceljs\node_modules\escalade\dist\index.mjs133859094107816702 0
-43C:\Users\kert.kustavson\kta24\parceljs\dist133859101940862441 1
+43C:\Users\kert.kustavson\kta24\parceljs\dist133859105199648285 1
 80C:\Users\kert.kustavson\kta24\parceljs\node_modules\@swc\helpers\_\_create_class133859094176979408 1
 74C:\Users\kert.kustavson\kta24\parceljs\node_modules\semver\ranges\valid.js133859094148446006 0
 57C:\Users\kert.kustavson\kta24\parceljs\node_modules\json5133859094127499529 1
@@ -45,7 +45,7 @@
 97C:\Users\kert.kustavson\kta24\parceljs\node_modules\lightningcss\node_modules\detect-libc\LICENSE133859094138440428 0
 66C:\Users\kert.kustavson\kta24\parceljs\node_modules\.bin\json5.cmd133859094304356106 0
 94C:\Users\kert.kustavson\kta24\parceljs\node_modules\caniuse-lite\data\features\css-counters.js133859094174419376 0
-49C:\Users\kert.kustavson\kta24\parceljs\src\app.js133859099960364005 0
+49C:\Users\kert.kustavson\kta24\parceljs\src\app.js133859105197114930 0
 71C:\Users\kert.kustavson\kta24\parceljs\node_modules\type-fest\base.d.ts133859094111911968 0
 87C:\Users\kert.kustavson\kta24\parceljs\node_modules\@parcel\reporter-dev-server\LICENSE133859094135830464 0
 82C:\Users\kert.kustavson\kta24\parceljs\node_modules\@swc\helpers\cjs\_identity.cjs133859094147457653 0
@@ -1880,7 +1880,7 @@
 82C:\Users\kert.kustavson\kta24\parceljs\node_modules\@swc\helpers\src\_inherits.mjs133859094182031030 0
 70C:\Users\kert.kustavson\kta24\parceljs\node_modules\is-number\index.js133859094099625120 0
 100C:\Users\kert.kustavson\kta24\parceljs\node_modules\caniuse-lite\data\features\css-math-functions.js133859094182581217 0
-54C:\Users\kert.kustavson\kta24\parceljs\dist\index.html133859101940762436 0
+54C:\Users\kert.kustavson\kta24\parceljs\dist\index.html133859105072400811 0
 69C:\Users\kert.kustavson\kta24\parceljs\node_modules\is-number\LICENSE133859094101557844 0
 68C:\Users\kert.kustavson\kta24\parceljs\node_modules\is-json\index.js133859094104437961 0
 86C:\Users\kert.kustavson\kta24\parceljs\node_modules\htmlparser2\lib\esm\Tokenizer.d.ts133859094137278579 0
@@ -4208,8 +4208,8 @@
 79C:\Users\kert.kustavson\kta24\parceljs\node_modules\.bin\update-browserslist-db133859094304376050 0
 83C:\Users\kert.kustavson\kta24\parceljs\node_modules\.bin\update-browserslist-db.cmd133859094304376050 0
 83C:\Users\kert.kustavson\kta24\parceljs\node_modules\.bin\update-browserslist-db.ps1133859094304376050 0
-61C:\Users\kert.kustavson\kta24\parceljs\dist\index.0641b553.js133859101910517376 0
-65C:\Users\kert.kustavson\kta24\parceljs\dist\index.0641b553.js.map133859101910801841 0
-62C:\Users\kert.kustavson\kta24\parceljs\dist\index.4d663569.css133859101910564579 0
-66C:\Users\kert.kustavson\kta24\parceljs\dist\index.4d663569.css.map133859101910626646 0
+61C:\Users\kert.kustavson\kta24\parceljs\dist\index.0641b553.js133859105199136185 0
+65C:\Users\kert.kustavson\kta24\parceljs\dist\index.0641b553.js.map133859105199625763 0
+62C:\Users\kert.kustavson\kta24\parceljs\dist\index.4d663569.css133859105071459363 0
+66C:\Users\kert.kustavson\kta24\parceljs\dist\index.4d663569.css.map133859105071609154 0
 64C:\Users\kert.kustavson\kta24\parceljs\dist\parceljs.59712999.js133859097374800572 0
