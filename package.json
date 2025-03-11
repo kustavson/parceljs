@@ -9,7 +9,7 @@
   },
   "devDependencies": {
     "@parcel/transformer-sass": "^2.13.3",
-    "parcel": "latest"
+    "parcel": "2.13.3"
   },
   "dependencies": {
     "bootstrap": "^5.3.3",
