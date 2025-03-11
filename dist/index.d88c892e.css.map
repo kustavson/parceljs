@@ -1,1 +1,0 @@
-{"mappings":"ACAA","sources":["index.d88c892e.css","src/styles.css"],"sourcesContent":["h1 {\n  color: #ff69b4;\n  background: #ffffe0;\n  font-family: cursive;\n}\n/*# sourceMappingURL=index.d88c892e.css.map */\n","h1 {\r\n    color: hotpink;\r\n    font-family: cursive;\r\n    background: lightyellow;\r\n  }"],"names":[],"version":3,"file":"index.d88c892e.css.map"}
